@@ -1,0 +1,9 @@
+C:\Users\Ezequiel Vasquez\source\repos\tasador_prestamo\LogicLayer\bin\Debug\netstandard2.0\LogicLayer.deps.json
+C:\Users\Ezequiel Vasquez\source\repos\tasador_prestamo\LogicLayer\bin\Debug\netstandard2.0\LogicLayer.dll
+C:\Users\Ezequiel Vasquez\source\repos\tasador_prestamo\LogicLayer\bin\Debug\netstandard2.0\LogicLayer.pdb
+C:\Users\Ezequiel Vasquez\source\repos\tasador_prestamo\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.csprojAssemblyReference.cache
+C:\Users\Ezequiel Vasquez\source\repos\tasador_prestamo\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.AssemblyInfoInputs.cache
+C:\Users\Ezequiel Vasquez\source\repos\tasador_prestamo\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.AssemblyInfo.cs
+C:\Users\Ezequiel Vasquez\source\repos\tasador_prestamo\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ezequiel Vasquez\source\repos\tasador_prestamo\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.dll
+C:\Users\Ezequiel Vasquez\source\repos\tasador_prestamo\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.pdb

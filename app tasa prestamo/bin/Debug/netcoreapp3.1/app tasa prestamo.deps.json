@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "app tasa prestamo/1.0.0": {
+        "dependencies": {
+          "LogicLayer": "1.0.0"
+        },
+        "runtime": {
+          "app tasa prestamo.dll": {}
+        }
+      },
+      "LogicLayer/1.0.0": {
+        "runtime": {
+          "LogicLayer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "app tasa prestamo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LogicLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

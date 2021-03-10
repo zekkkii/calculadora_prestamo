@@ -1,0 +1,19 @@
+C:\Users\Ezequiel Vasquez\source\repos\tasador_prestamo\app tasa prestamo\bin\Debug\netcoreapp3.1\app tasa prestamo.exe
+C:\Users\Ezequiel Vasquez\source\repos\tasador_prestamo\app tasa prestamo\bin\Debug\netcoreapp3.1\app tasa prestamo.deps.json
+C:\Users\Ezequiel Vasquez\source\repos\tasador_prestamo\app tasa prestamo\bin\Debug\netcoreapp3.1\app tasa prestamo.runtimeconfig.json
+C:\Users\Ezequiel Vasquez\source\repos\tasador_prestamo\app tasa prestamo\bin\Debug\netcoreapp3.1\app tasa prestamo.runtimeconfig.dev.json
+C:\Users\Ezequiel Vasquez\source\repos\tasador_prestamo\app tasa prestamo\bin\Debug\netcoreapp3.1\app tasa prestamo.dll
+C:\Users\Ezequiel Vasquez\source\repos\tasador_prestamo\app tasa prestamo\bin\Debug\netcoreapp3.1\app tasa prestamo.pdb
+C:\Users\Ezequiel Vasquez\source\repos\tasador_prestamo\app tasa prestamo\obj\Debug\netcoreapp3.1\app tasa prestamo.csprojAssemblyReference.cache
+C:\Users\Ezequiel Vasquez\source\repos\tasador_prestamo\app tasa prestamo\obj\Debug\netcoreapp3.1\app tasa prestamo.csproj.GenerateResource.cache
+C:\Users\Ezequiel Vasquez\source\repos\tasador_prestamo\app tasa prestamo\obj\Debug\netcoreapp3.1\app tasa prestamo.AssemblyInfoInputs.cache
+C:\Users\Ezequiel Vasquez\source\repos\tasador_prestamo\app tasa prestamo\obj\Debug\netcoreapp3.1\app tasa prestamo.AssemblyInfo.cs
+C:\Users\Ezequiel Vasquez\source\repos\tasador_prestamo\app tasa prestamo\obj\Debug\netcoreapp3.1\app tasa prestamo.csproj.CoreCompileInputs.cache
+C:\Users\Ezequiel Vasquez\source\repos\tasador_prestamo\app tasa prestamo\obj\Debug\netcoreapp3.1\app tasa prestamo.dll
+C:\Users\Ezequiel Vasquez\source\repos\tasador_prestamo\app tasa prestamo\obj\Debug\netcoreapp3.1\app tasa prestamo.pdb
+C:\Users\Ezequiel Vasquez\source\repos\tasador_prestamo\app tasa prestamo\obj\Debug\netcoreapp3.1\app tasa prestamo.genruntimeconfig.cache
+C:\Users\Ezequiel Vasquez\source\repos\tasador_prestamo\app tasa prestamo\obj\Debug\netcoreapp3.1\app_tasa_prestamo.frmCalculadoraPrestamos.resources
+C:\Users\Ezequiel Vasquez\source\repos\tasador_prestamo\app tasa prestamo\bin\Debug\netcoreapp3.1\LogicLayer.dll
+C:\Users\Ezequiel Vasquez\source\repos\tasador_prestamo\app tasa prestamo\bin\Debug\netcoreapp3.1\LogicLayer.pdb
+C:\Users\Ezequiel Vasquez\source\repos\tasador_prestamo\app tasa prestamo\obj\Debug\netcoreapp3.1\app tasa prestamo.csproj.CopyComplete
+C:\Users\Ezequiel Vasquez\source\repos\tasador_prestamo\app tasa prestamo\obj\Debug\netcoreapp3.1\app_tasa_prestamo.Properties.Resources.resources

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9R0Qvy2Za4UiCSSErayWv7kEmB3J8VcmuuTqSAQfXnBPiES9bHGSPCUBq14+629LbxKDSiCZWjJ8knqCfp7/Nw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ezequiel Vasquez\\source\\repos\\tasador_prestamo\\LogicLayer\\LogicLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ezequiel Vasquez\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Ezequiel Vasquez\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
